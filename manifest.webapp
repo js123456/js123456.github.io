@@ -3,7 +3,7 @@
     "description": "A test application",
     "launch_path": "/index.html",
     "icons": {
-        "128": "/icon-128.png"
+        "128": "/icon.png"
     },
     "developer": {
         "name": "js123456",
