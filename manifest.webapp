@@ -1,0 +1,13 @@
+{
+    "name": "Test",
+    "description": "A test application",
+    "launch_path": "/index.html",
+    "icons": {
+        "128": "/icon-128.png"
+    },
+    "developer": {
+        "name": "js123456",
+        "url": "http://js123456.github.io"
+    },
+    "default_locale": "en"
+}
